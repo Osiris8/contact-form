@@ -23,3 +23,15 @@ code {
 .justifiy-content-space-between {
   justify-content: space-between;
 }
+
+.margin-small {
+  margin: 30px;
+}
+
+.padding-small {
+  padding: 30px;
+}
+
+.border-color {
+  border-color: black;
+}
